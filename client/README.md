@@ -107,7 +107,7 @@ GET http://localhost:5000/api/todos
 4. Add a new TODO.
 5. Edit the TODO.
 6. Mark it as done or undone.
-7. Delete the TODO.
+7. Delete the TODO actions.
 
 ---
 
